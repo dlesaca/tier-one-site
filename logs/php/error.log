@@ -1,0 +1,24 @@
+[25-Jan-2020 08:12:07 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/home/Local Sites/tier-one-life/app/public/wp-content/themes/html5blank-stable/header.php on line 55
+[30-Jan-2020 00:09:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_homehero() in /Users/home/Local Sites/tier-one-life/app/public/wp-content/themes/html5blank-stable/index.php:5
+Stack trace:
+#0 /Users/home/Local Sites/tier-one-life/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/home/Local Sites/tier-one-life/app/public/wp-blog-header.php(19): require_once('/Users/home/Loc...')
+#2 /Users/home/Local Sites/tier-one-life/app/public/index.php(17): require('/Users/home/Loc...')
+#3 {main}
+  thrown in /Users/home/Local Sites/tier-one-life/app/public/wp-content/themes/html5blank-stable/index.php on line 5
+[30-Jan-2020 00:11:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_homehero() in /Users/home/Local Sites/tier-one-life/app/public/wp-content/themes/html5blank-stable/index.php:5
+Stack trace:
+#0 /Users/home/Local Sites/tier-one-life/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/home/Local Sites/tier-one-life/app/public/wp-blog-header.php(19): require_once('/Users/home/Loc...')
+#2 /Users/home/Local Sites/tier-one-life/app/public/index.php(17): require('/Users/home/Loc...')
+#3 {main}
+  thrown in /Users/home/Local Sites/tier-one-life/app/public/wp-content/themes/html5blank-stable/index.php on line 5
+[30-Jan-2020 04:28:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_loop() in /Users/home/Local Sites/tier-one-life/app/public/wp-content/themes/html5blank-stable/index.php:39
+Stack trace:
+#0 /Users/home/Local Sites/tier-one-life/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/home/Local Sites/tier-one-life/app/public/wp-blog-header.php(19): require_once('/Users/home/Loc...')
+#2 /Users/home/Local Sites/tier-one-life/app/public/index.php(17): require('/Users/home/Loc...')
+#3 {main}
+  thrown in /Users/home/Local Sites/tier-one-life/app/public/wp-content/themes/html5blank-stable/index.php on line 39
+[31-Jan-2020 23:32:07 UTC] PHP Parse error:  syntax error, unexpected '?' in /Users/home/Local Sites/tier-one-life/app/public/wp-content/themes/html5blank-stable/single.php on line 65
+[31-Jan-2020 23:32:09 UTC] PHP Parse error:  syntax error, unexpected '?' in /Users/home/Local Sites/tier-one-life/app/public/wp-content/themes/html5blank-stable/single.php on line 65
